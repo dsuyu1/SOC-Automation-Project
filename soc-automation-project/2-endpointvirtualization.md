@@ -8,6 +8,7 @@ To download the Windows ISO image, visit [this](https://www.microsoft.com/en-us/
 <div>
   <br>
     <img src="https://i.imgur.com/cAUesxB.png">
+  <i>Ref 1: Downloading the Windows ISO</i>
   <br>
 </div>
 
@@ -15,6 +16,7 @@ To download the Windows ISO image, visit [this](https://www.microsoft.com/en-us/
 Using the ISO image, we can start a Windows 10 virtual machine. I will be using Virtual Box.
 <div>
   <br>
-  <img src="https://i.imgur.com/w2SCB7t.png">
+    <img src="https://i.imgur.com/w2SCB7t.png">
+  <i>Ref 2: Creating the virtual machine in Virtual Box</i>
   <br>
 </div>
