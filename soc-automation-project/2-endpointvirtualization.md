@@ -20,4 +20,9 @@ Using the ISO image, we can start a Windows 10 virtual machine. I will be using 
   
   <i>Ref 2: Creating the virtual machine in Virtual Box</i>
   <br>
+
+  <br>
+  <img src="https://i.imgur.com/N2sgWgh.png">
+  <i>Ref 3: Installing Windows 10</i>
+  <br>
 </div>
