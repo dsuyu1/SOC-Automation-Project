@@ -1,4 +1,4 @@
-# 2. Endpoint Virtualization
+# 2.0: Endpoint Virtualization
 ## Overview
 In this section, I downloaded Virtual Box and the Windows 10 ISO image for our client/endpoint computer. To review, the Windows 10 computer will be sending events and will act as 
 the user in this case (we are the analyst).
