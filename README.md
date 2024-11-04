@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://i.imgur.com/vm3CkhL.png" length = 400, width = 400> 
+<img src="https://i.imgur.com/vm3CkhL.png" length = 350, width = 350> 
 </p>
 
 # SOC Automation Project
