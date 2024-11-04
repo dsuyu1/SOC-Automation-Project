@@ -1,4 +1,6 @@
+<p align = "center">
 <img src="https://i.imgur.com/vm3CkhL.png" length = 400, width = 400> 
+</p>
 
 # SOC Automation Project
 ## Overview
